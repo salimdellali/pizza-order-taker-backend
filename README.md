@@ -1,4 +1,4 @@
-# Pizza Order Taker AI Chatbot
+# Pizza Order Taker AI Chatbot Backend
 
 ## Stats
 
@@ -6,6 +6,6 @@
 
 ## Description
 
-- Serves as a REST API for the Pizza Order Taker Frontend
+- Serves as a REST API for the Pizza Order Taker Frontend, see the Frontend GitHub repository [here](https://github.com/salimdellali/pizza-order-taker-frontend)
 - Leverages the power of AI, uses the OpenAI API as a third party service to take user's pizza orders
 - Built using NestJS
